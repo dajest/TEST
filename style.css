@@ -1,9 +1,9 @@
 body {
   margin: 0;
-  padding: 0;
+  padding: 900px;
   background-origin: padding-box;
 }
 
 .header {
-  margin: 0 auto;
+  margin: 0 auto 100px auto;
 }
